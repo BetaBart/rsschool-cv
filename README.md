@@ -1,1 +1,1 @@
-https://betabart.github.io/rsschool-cv/cv
+https://betabart.github.io/rsschool-cv/
